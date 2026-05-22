@@ -1516,9 +1516,11 @@ footer {
   0% {
     box-shadow: 0 4px 16px rgba(37, 211, 102, 0.3), 0 0 0 0 rgba(37, 211, 102, 0.5);
   }
+
   70% {
     box-shadow: 0 4px 16px rgba(37, 211, 102, 0.3), 0 0 0 15px rgba(37, 211, 102, 0);
   }
+
   100% {
     box-shadow: 0 4px 16px rgba(37, 211, 102, 0.3), 0 0 0 0 rgba(37, 211, 102, 0);
   }
@@ -1532,7 +1534,7 @@ footer {
     width: 50px;
     height: 50px;
   }
-  
+
   .whatsapp-float-icon {
     width: 26px;
     height: 26px;
